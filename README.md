@@ -1,8 +1,4 @@
 ## Hi there 👋 I'm Vlastimil
-
-<table>
-<tr>
-<td valign="top">
   
 ## 🛠 Skills
 **Languages**: Python 3.9, Bash  
@@ -12,17 +8,13 @@
 **Dev Tools**: Git, Docker, AWS Lightsail, DigitalOcean  
 **Testing & Quality**: Pytest, Black, Isort, Flake8, Ruff  
 **Other**: Boto3, OAuthlib, Joblib, Jinja2, crontab
-</td>
-<td valign="top">
 
 **Python Developer**   
 - 📩 v.tetour@gmail.com  
 - 📍 Prague, CZ  
 - 😺 [GitHub](https://github.com/vlastimiltetour)  
 - 📃 [LinkedIn](https://www.linkedin.com/in/vlastimiltetour/)  
-</td>
-</tr>
-</table>
+
 
 <!--
 **vlastimiltetour/vlastimiltetour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
