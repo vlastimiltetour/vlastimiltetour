@@ -12,8 +12,6 @@ I'm a backend-focused Python developer with a strong interest in clean code, aut
 **Other**: Boto3, OAuthlib, Joblib, Jinja2, crontab
 
 
-
-
 <!--
 **vlastimiltetour/vlastimiltetour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,10 +43,5 @@ Here are some ideas to get you started:
 - [BeeIT – Python, Data & AI](https://www.beeit.cz/Kurz/Intenzivni-kurz-Pythonu-datove-analyzy-a-umele-inteligence)
 - [Favorite Code Katas](https://github.com/vlastimiltetour/favorite_katas)
 
-Contact
-📩 v.tetour@gmail.com  
-📍 Prague, CZ  
-😺 [GitHub](https://github.com/vlastimiltetour)  
-📃 [LinkedIn](https://www.linkedin.com/in/vlastimiltetour/)  
 
 
