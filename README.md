@@ -7,7 +7,6 @@
 😺 [GitHub](https://github.com/vlastimiltetour)  
 📃 [LinkedIn](https://www.linkedin.com/in/vlastimiltetour/)  
 
-![Header](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fdfca8cd-d140-4fbc-8c17-82c48c06ba2e/Untitled.png)
 
 <!--
 **vlastimiltetour/vlastimiltetour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,15 +24,15 @@ Here are some ideas to get you started:
 -->
 
 
-## 🚀 Projects
+#🚀 Projects
 
-### 🔗 [Efir The Brand](https://www.efirthebrand.cz/)  
+🔗 [Efir The Brand](https://www.efirthebrand.cz/)  
 🧠 [Codebase](https://github.com/vlastimiltetour/etb)
 
-### 🔗 [Stockisimo](https://www.stocked.cz/cs-cz/systemy/stockisimo/)  
+🔗 [Stockisimo](https://www.stocked.cz/cs-cz/systemy/stockisimo/)  
 🧠 [Codebase](https://github.com/vlastimiltetour/etb](https://github.com/Stocked/)
 
-## 📚 Courses & Learning
+# 📚 Courses & Learning
 
 - [Grokking Algorithms – Bhargava](https://www.manning.com/books/grokking-algorithms)
 - [Python 3 OOP – Dusty Phillips](https://www.amazon.com/Python-3-Object-Oriented-Programming/dp/1849511268)
@@ -42,10 +41,7 @@ Here are some ideas to get you started:
 - [BeeIT – Python, Data & AI](https://www.beeit.cz/Kurz/Intenzivni-kurz-Pythonu-datove-analyzy-a-umele-inteligence)
 - [Favorite Code Katas](https://github.com/vlastimiltetour/favorite_katas)
 
----
-
 ## 🛠 Skills
-
 **Languages**: Python 3.9, Bash  
 **Frameworks**: Django, Flask  
 **Data**: Pandas, Numpy, Matplotlib, Scikit-learn  
