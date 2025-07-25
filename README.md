@@ -1,12 +1,9 @@
 ## Hi there 👋 I'm Vlastimil
 
-**Python Developer**  
-- 📞 +420 773 696 087  
-- 📩 v.tetour@gmail.com  
-- 📍 Prague, CZ  
-- 😺 [GitHub](https://github.com/vlastimiltetour)  
-- 📃 [LinkedIn](https://www.linkedin.com/in/vlastimiltetour/)  
-
+<table>
+<tr>
+<td valign="top" width="50%">
+  
 ## 🛠 Skills
 **Languages**: Python 3.9, Bash  
 **Frameworks**: Django, Flask  
@@ -15,6 +12,18 @@
 **Dev Tools**: Git, Docker, AWS Lightsail, DigitalOcean  
 **Testing & Quality**: Pytest, Black, Isort, Flake8, Ruff  
 **Other**: Boto3, OAuthlib, Joblib, Jinja2, crontab
+</td>
+<td valign="top" width="50%">
+
+**Python Developer**   
+- 📩 v.tetour@gmail.com  
+- 📍 Prague, CZ  
+- 😺 [GitHub](https://github.com/vlastimiltetour)  
+- 📃 [LinkedIn](https://www.linkedin.com/in/vlastimiltetour/)  
+</td>
+</tr>
+</table>
+
 <!--
 **vlastimiltetour/vlastimiltetour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🚀 Projects
+## 🚀 Projects
 
 **Efir The Brand**  
 🔗 [efirthebrand.cz](https://www.efirthebrand.cz/)  
@@ -40,7 +49,7 @@ Here are some ideas to get you started:
 🔗 [stocked.cz – Stockisimo System](https://www.stocked.cz/cs-cz/systemy/stockisimo/)  
 🧠 [GitHub Organization](https://github.com/Stocked)
 
-# 📚 Courses & Learning
+## 📚 Courses & Learning
 - [Grokking Algorithms – Bhargava](https://www.manning.com/books/grokking-algorithms)
 - [Python 3 OOP – Dusty Phillips](https://www.amazon.com/Python-3-Object-Oriented-Programming/dp/1849511268)
 - [Django 4 by Example](https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1801813051)
