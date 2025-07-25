@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-**Efir The Brand**: https://www.efirthebrand.cz/, 🗂️ [GitHub Repo](https://github.com/vlastimiltetour/etb)
+**Efir The Brand**: https://www.efirthebrand.cz/, 🗂️ [GitHub Repo](https://github.com/vlastimiltetour/etb)<br>
 **Stockisimo (by Stocked)**:  https://www.stocked.cz/cs-cz/systemy/stockisimo/, 🗂️ [GitHub Repo](https://github.com/Stocked)
 
 ## 📚 Courses & Learning
