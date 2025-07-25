@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
   
 ## 🛠 Skills
 **Languages**: Python 3.9, Bash  
@@ -13,7 +13,7 @@
 **Testing & Quality**: Pytest, Black, Isort, Flake8, Ruff  
 **Other**: Boto3, OAuthlib, Joblib, Jinja2, crontab
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 **Python Developer**   
 - 📩 v.tetour@gmail.com  
