@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Vlastimil
-  
+
+I'm a backend-focused Python developer with a strong interest in clean code, automation, and data.
+
 ## 🛠 Skills
 **Languages**: Python 3.9, Bash  
 **Frameworks**: Django, Flask  
@@ -29,10 +31,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-[**Efir The Brand**](https://www.efirthebrand.cz/)  
+**Efir The Brand** (https://www.efirthebrand.cz/)  
 🧠 https://github.com/vlastimiltetour/etb
 
-[**Stockisimo (by Stocked)**](https://www.stocked.cz/cs-cz/systemy/stockisimo/)
+**Stockisimo (by Stocked)**(https://www.stocked.cz/cs-cz/systemy/stockisimo/)
 🧠 https://github.com/Stocked
 
 ## 📚 Courses & Learning
@@ -43,10 +45,10 @@ Here are some ideas to get you started:
 - [BeeIT – Python, Data & AI](https://www.beeit.cz/Kurz/Intenzivni-kurz-Pythonu-datove-analyzy-a-umele-inteligence)
 - [Favorite Code Katas](https://github.com/vlastimiltetour/favorite_katas)
 
-## Contact
-- 📩 v.tetour@gmail.com  
-- 📍 Prague, CZ  
-- 😺 [GitHub](https://github.com/vlastimiltetour)  
-- 📃 [LinkedIn](https://www.linkedin.com/in/vlastimiltetour/)  
+Contact
+📩 v.tetour@gmail.com  
+📍 Prague, CZ  
+😺 [GitHub](https://github.com/vlastimiltetour)  
+📃 [LinkedIn](https://www.linkedin.com/in/vlastimiltetour/)  
 
 
