@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 
 **Efir The Brand** https://www.efirthebrand.cz/  
-🧠 [repo](https://github.com/vlastimiltetour/etb)
+[repo](https://github.com/vlastimiltetour/etb)
 
 **Stockisimo (by Stocked)** https://www.stocked.cz/cs-cz/systemy/stockisimo/
-🧠 [repo](https://github.com/Stocked)
+[repo](https://github.com/Stocked)
 
 ## 📚 Courses & Learning
 - [Grokking Algorithms – Bhargava](https://www.manning.com/books/grokking-algorithms)
