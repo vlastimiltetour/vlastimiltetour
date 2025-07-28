@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 **Stockisimo (by Stocked)**:  https://www.stocked.cz/cs-cz/systemy/stockisimo/, 🗂️ [GitHub](https://github.com/Stocked)
 
 ## 📚 Courses & Learning
+- [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 - [Grokking Algorithms – Bhargava](https://www.manning.com/books/grokking-algorithms)
 - [Python 3 OOP – Dusty Phillips](https://www.amazon.com/Python-3-Object-Oriented-Programming/dp/1849511268)
 - [Django 4 by Example](https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1801813051)
