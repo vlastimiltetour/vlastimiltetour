@@ -5,11 +5,14 @@ I'm a backend-focused Python developer with a strong interest in clean code, aut
 ## 🛠 Skills
 **Languages**: Python 3.9, Bash  
 **Frameworks**: Django, Flask  
-**Data**: Pandas, Numpy, Matplotlib, Scikit-learn  
-**Backend**: REST APIs, PostgreSQL, Requests  
-**Dev Tools**: Git, Docker, AWS Lightsail, DigitalOcean  
+**Data**: Pandas, Numpy, Matplotlib, Scikit-learn,   
+**Backend**: SQL, REST APIs, PostgreSQL, Requests   
+**Dev Tools**: Git, Docker, AWS Lightsail, DigitalOcean, Supabase  
 **Testing & Quality**: Pytest, Black, Isort, Flake8, Ruff  
-**Other**: Boto3, OAuthlib, Joblib, Jinja2, crontab
+**Other**: Linux, Boto3, OAuthlib, Joblib, Jinja2, crontab
+**Knowledge**: Data structures, Algorithms, and software engineering (network protocols, design patterns, programming paradigms - OOP, functional programming)
+
+
 
 
 <!--
