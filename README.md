@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Vlastimil
 
-I'm a backend-focused Python developer with a strong interest in clean code, automation, and data.
+As a Python Dev, I sit at the crossroads of software engineering, data analysis, and data engineering—building features with precision and clarity. My superpowers: blending a foundation in statistics with the insight of psychology to craft workflows, code, communication, and teamwork that remain clear and sharp.
 
 ## 🛠 Skills
 **Languages**: Python 3.9, Bash  
@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-**Efir The Brand**: https://www.efirthebrand.cz/, 🗂️ [GitHub](https://github.com/vlastimiltetour/etb)<br>
 **Stockisimo (by Stocked)**:  https://www.stocked.cz/cs-cz/systemy/stockisimo/, 🗂️ [GitHub](https://github.com/Stocked)
+**Efir The Brand**: https://www.efirthebrand.cz/, 🗂️ [GitHub](https://github.com/vlastimiltetour/etb)<br>
+
 
 ## 📚 Courses & Learning
 - [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
