@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-**Stockisimo (by Stocked)**:  - Fullfillment software | https://www.stocked.cz/cs-cz/systemy/stockisimo/, 📁 [Repo](https://github.com/Stocked) <br>
-**Efir The Brand**: - Ecommerce website | https://www.efirthebrand.cz/, 📁 [Repo](https://github.com/vlastimiltetour/etb)<br>
-**Interview Scorecard Analysis - Realibility & Validity** - TBA 📁 Repo <br>
-**Data Pipeline for Real Estate (Seznam.cz)** - TBA 📁 Repo <br>
+**Stockisimo (by Stocked)**:  - Professional Fullfillment software | Django | https://www.stocked.cz/cs-cz/systemy/stockisimo/, 📁 [Repo](https://github.com/Stocked) <br>
+**Efir The Brand**: | Django - Professional Ecommerce website | https://www.efirthebrand.cz/, 📁 [Repo](https://github.com/vlastimiltetour/etb)<br>
+**Interview Scorecard Analysis - Realibility & Validity** | Data Science - TBA 📁 Repo <br>
+**Data Pipeline for Real Estate (Seznam.cz)** | Data Engineering - TBA 📁 Repo <br>
 
 
 ## 📚 Courses & Learning
