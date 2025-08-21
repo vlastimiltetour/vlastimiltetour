@@ -32,17 +32,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects  
 
-**Stockisimo (by Stocked)** | Professional Fulfillment Software | Django  
-🌐 [Website](https://www.stocked.cz/cs-cz/systemy/stockisimo/) | [![GitHub](https://img.shields.io/badge/-Repo-black?logo=github&style=flat-square)](https://github.com/Stocked)  
-
-**Efir The Brand** | Professional E-commerce Website | Django  
-🌐 [Website](https://www.efirthebrand.cz/) | [![GitHub](https://img.shields.io/badge/-Repo-black?logo=github&style=flat-square)](https://github.com/vlastimiltetour/etb)  
-
-**Interview Scorecard Analysis – Reliability & Validity** | Data Science | TBA  
-📂 Repo (coming soon)  
-
-**Data Pipeline for Real Estate (Seznam.cz)** | Data Engineering | TBA  
-📂 Repo (coming soon)  
+**Stockisimo (by Stocked)** | Professional Fulfillment Software | Django | 🌐 [Website](https://www.stocked.cz/cs-cz/systemy/stockisimo/) | [![GitHub](https://img.shields.io/badge/-Repo-black?logo=github&style=flat-square)](https://github.com/Stocked)  <br>
+**Efir The Brand** | Professional E-commerce Website | Django | 🌐 [Website](https://www.efirthebrand.cz/) | [![GitHub](https://img.shields.io/badge/-Repo-black?logo=github&style=flat-square)](https://github.com/vlastimiltetour/etb)  <br>
+**Interview Scorecard Analysis – Reliability & Validity** | Data Science | [![Github](#)] <br>
+**Data Pipeline for Real Estate (Seznam.cz)** | TBA | Data Engineering | [![Github](#)] <br>
 
 
 
