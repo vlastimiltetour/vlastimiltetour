@@ -30,12 +30,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 Projects
+## 🚀 Projects  
 
-**Stockisimo (by Stocked)**:  - Professional Fullfillment software | Django | https://www.stocked.cz/cs-cz/systemy/stockisimo/, 📁 [Repo](https://github.com/Stocked) <br>
-**Efir The Brand**: | Django - Professional Ecommerce website | https://www.efirthebrand.cz/, 📁 [Repo](https://github.com/vlastimiltetour/etb)<br>
-**Interview Scorecard Analysis - Realibility & Validity** | Data Science - TBA 📁 Repo <br>
-**Data Pipeline for Real Estate (Seznam.cz)** | Data Engineering - TBA 📁 Repo <br>
+**Stockisimo (by Stocked)** | Professional Fulfillment Software | Django  
+🌐 [Website](https://www.stocked.cz/cs-cz/systemy/stockisimo/) | [![GitHub](https://img.shields.io/badge/-Repo-black?logo=github&style=flat-square)](https://github.com/Stocked)  
+
+**Efir The Brand** | Professional E-commerce Website | Django  
+🌐 [Website](https://www.efirthebrand.cz/) | [![GitHub](https://img.shields.io/badge/-Repo-black?logo=github&style=flat-square)](https://github.com/vlastimiltetour/etb)  
+
+**Interview Scorecard Analysis – Reliability & Validity** | Data Science | TBA  
+📂 Repo (coming soon)  
+
+**Data Pipeline for Real Estate (Seznam.cz)** | Data Engineering | TBA  
+📂 Repo (coming soon)  
+
 
 
 ## 📚 Courses & Learning
