@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-**Stockisimo (by Stocked)**:  https://www.stocked.cz/cs-cz/systemy/stockisimo/, 🗂️ [GitHub](https://github.com/Stocked)
-**Efir The Brand**: https://www.efirthebrand.cz/, 🗂️ [GitHub](https://github.com/vlastimiltetour/etb)<br>
+**Stockisimo (by Stocked)**:  - Fullfillment software -https://www.stocked.cz/cs-cz/systemy/stockisimo/, 🗂️ [GitHub](https://github.com/Stocked)
+**Efir The Brand**: - Ecommerce website https://www.efirthebrand.cz/, 🗂️ [GitHub](https://github.com/vlastimiltetour/etb)<br>
+**Interview Scorecard Analysis - Realibility & Validity** - TBA
+**Data Pipeline for Real Estate (Seznam.cz)** - TBA
 
 
 ## 📚 Courses & Learning
