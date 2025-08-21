@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects  
 
-**Stockisimo (by Stocked)** | Professional Fulfillment Software | Django | 🌐 [Website](https://www.stocked.cz/cs-cz/systemy/stockisimo/) | [![GitHub](https://img.shields.io/badge/-Repo-black?logo=github&style=flat-square)](https://github.com/Stocked)  <br>
-**Efir The Brand** | Professional E-commerce Website | Django | 🌐 [Website](https://www.efirthebrand.cz/) | [![GitHub](https://img.shields.io/badge/-Repo-black?logo=github&style=flat-square)](https://github.com/vlastimiltetour/etb)  <br>
-**Interview Scorecard Analysis – Reliability & Validity** | Data Science | [![Github](#)] <br>
-**Data Pipeline for Real Estate (Seznam.cz)** | TBA | Data Engineering | [![Github](#)] <br>
+**Stockisimo (by Stocked)** - Professional Fulfillment Software | Django | 🌐 [Website](https://www.stocked.cz/cs-cz/systemy/stockisimo/) | [![GitHub](https://img.shields.io/badge/-Repo-black?logo=github&style=flat-square)](https://github.com/Stocked)  <br>
+**Efir The Brand** - Professional E-commerce Website | Django | 🌐 [Website](https://www.efirthebrand.cz/) | [![GitHub](https://img.shields.io/badge/-Repo-black?logo=github&style=flat-square)](https://github.com/vlastimiltetour/etb)  <br>
+**Interview Scorecard Analysis – Reliability & Validity** - TBA | Data Science | [![Github](#)] <br>
+**Data Pipeline for Real Estate (Seznam.cz)** - TBA | Data Engineering | [![Github](#)] <br>
 
 
 
