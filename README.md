@@ -5,10 +5,10 @@ As a Python Dev, I sit at the crossroads of software engineering, data analysis,
 ## 🛠 Skills
 **Languages**: Python 3.9, Bash<br>  
 **Frameworks**: Django, Flask<br>  
-**Data**: Pandas, Numpy, Matplotlib, Scikit-learn<br>   
-**Backend**: SQL, REST APIs, PostgreSQL, Requests<br>   
-**Dev Tools**: Git, Docker, AWS Lightsail, DigitalOcean, Supabase<br>  
-**Testing & Quality**: Pytest, Black, Isort, Flake8, Ruff<br>  
+**Data**: Pandas, Numpy, Matplotlib, Scikit-learn<br>
+**Backend**: SQL, REST APIs, PostgreSQL, Requests<br>
+**Dev Tools**: Git, Docker, AWS Lightsail, DigitalOcean, Supabase<br>
+**Testing & Quality**: Pytest, Black, Isort, Flake8, Ruff<br>
 **Other**: Linux, Boto3, OAuthlib, Joblib, Jinja2, crontab<br>
 **Knowledge**: Data structures, Algorithms, and software engineering (network protocols, design patterns, programming paradigms - OOP, functional programming)
 
