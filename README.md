@@ -3,8 +3,8 @@
 As a Python Dev, I sit at the crossroads of software engineering, data analysis, and data engineering—building features with precision and clarity. My superpowers: blending a foundation in statistics with the insight of psychology to craft workflows, code, communication, and teamwork that remain clear and sharp.
 
 ## 🛠 Skills
-**Languages**: Python 3.9, Bash<br>  
-**Frameworks**: Django, Flask<br>  
+**Languages**: Python 3.9, Bash<br>
+**Frameworks**: Django, Flask<br>
 **Data**: Pandas, Numpy, Matplotlib, Scikit-learn<br>
 **Backend**: SQL, REST APIs, PostgreSQL, Requests<br>
 **Dev Tools**: Git, Docker, AWS Lightsail, DigitalOcean, Supabase<br>
